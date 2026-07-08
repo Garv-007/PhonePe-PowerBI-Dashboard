@@ -1,5 +1,14 @@
 # 📊 PhonePe Transaction Analysis Dashboard
 
+<p align="center">
+  <img src="Screenshots/Home.png" width="900">
+</p>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-Transform-green?style=for-the-badge)
+
 ## 📌 Project Overview
 
 This project is an interactive Power BI dashboard built using a PhonePe transaction dataset. It provides insights into transaction amounts, payment status, failed payment reasons, and service-wise performance through interactive visualizations.
